@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "__config": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "functional": "cpp"
+    }
+}
